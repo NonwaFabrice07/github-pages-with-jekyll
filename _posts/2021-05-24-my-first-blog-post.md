@@ -1,2 +1,4 @@
-## Title
-Email: nonwa.fabrice07@gmail.com
+---
+title: "Fabrice Dev Information"
+date: 2020-05-24
+---
